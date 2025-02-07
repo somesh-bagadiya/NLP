@@ -1,0 +1,107 @@
+GPT4 Responses
+====================
+
+Q: Search for coupons or deals for Jockey for black friday.
+A: The email does mention about some deals but doesn't provide specific information on any available coupons or deals for Black Friday at Jockey. You may want to check directly on Jockey's website, official emails, or contact their customer service for any available coupons or Black Friday deals.
+
+Q: How many job applications I have applied to till now
+A: The email doesn't provide specific information on the total number of job applications you have applied to till now. You can check the status of your applications by logging into your LinkedIn account.
+
+Q: Are there any pending returns for any orders?
+A: The email does not provide any information about pending returns for any orders.
+
+Q: How much have I spend on electronics till now
+A: The context provided does not include information about how much you have spent on electronics till now.
+
+Q: Which company sends me the most promotional emails
+A: The company sending you the most promotional emails, as per the provided context, is Bennett, Coleman & Co. Ltd., operating as ET Prime.
+
+Q: How many credit cards do I own
+A: The email does not provide information on how many credit cards you own.
+
+Q: What are the best restaurants in San Jose?
+A: The provided email from Eventbrite does not include information about the best restaurants in San Jose. It seems to be a promotional email with links to various events, possibly including food and drink related events, but does not specify any restaurants. For information about the best restaurants in San Jose, consider looking at restaurant review sites, local guides, or travel websites for recommendations.
+
+Q: Explain quantum computing in simple terms.
+A: Quantum computing is a type of computing that utilizes quantum mechanics, a branch of physics that explores how particles like atoms and photons work. Unlike traditional computers which use bits (represented as 0s  and 1s) to process information, quantum computers use quantum bits, or qubits. 
+
+Qubits are special because they can be both[AMOUNT] and[AMOUNT] at the same time, thanks to a principle called superposition. Another principle called entanglement allows qubits that are entangled to be linked together, so the state of one can directly influence the other, no matter the distance between them. This allows quantum computers to process a huge number of possibilities all at once, potentially solving complex problems much faster than traditional computers.
+
+Q: How does the stock market work?
+A: The email from Invesco Mutual Fund doesn't provide information on how the stock market works. However, I can tell you that the stock market is where buyers and sellers trade shares of public companies. Prices of these shares fluctuate based on supply and demand dynamics, corporate news, broader economic trends, and other factors. More detailed information on how the stock market works should be sought from reliable financial literature or professionals.
+
+Q: List all the subscriptions I am currently paying for.
+A: As an AI, I do not have access to personal data such as your subscription details unless it has been specifically provided in the context. In the provided context, the only mentioned subscription you have is with Google One for[AMOUNT] GB. For information on all your subscriptions, please check your subscriptions and services section in your Google Account.
+
+Q: What is the total amount spent on food delivery this month?
+A: The email does not provide information about the total amount spent on food delivery this month.
+
+Q: Which email contains the details of my last flight booking?
+A: This provided email does not contain details about your last flight booking. It is a promotional email from Expedia.com regarding their site features and rewards. Please provide the correct email which contains the details of your last flight booking so that I can provide an appropriate answer.
+
+Q: Are there any overdue bills or payments in my emails?
+A: Yes, there is an overdue payment according to an email from Discover Card. The payment was due on October[AMOUNT], [AMOUNT].
+
+Q: How many emails contain attachments in the last month?
+A: The provided context does not contain enough information to determine how many emails contained attachments in the last month.
+
+Q: Search for bank statement of chase bank for the month of october
+A: I'm sorry, but as an AI, I don't have the capability to search or provide personal bank statements. Please log in to your Chase account or contact their customer service for assistance in this matter.
+
+Q: How many emails have I received from Netflix?
+A: The context provided does not contain information on the total number of emails received from Netflix.
+
+Q: Do I have any emails with gift card codes or promo codes that I haven’t used yet?
+A: Yes, you have an unused gift card from theCut with a value of[AMOUNT]. The gift code is GS4YE3. You can redeem it for new products and services across the country at GoNift.com.
+
+Q: Are there any pending refunds for canceled orders?
+A: The email does not provide information on any pending refunds for canceled orders.
+
+Q: How much have I spent on food delivery apps this year?
+A: The provided email does not contain information about how much you've spent on food delivery apps this year.
+
+Q: What is the most frequent discount percentage offered in my emails?
+A: The most frequent discount percentage offered in your emails is[AMOUNT]%.
+
+Q: How many credit card bills are due this month?
+A: Based on the email, there is one credit card bill due this month.
+
+Q: Which bank sends me the most updates or alerts?
+A: Based on the context provided, it appears you receive updates or alerts from two banks - HDFC Bank and Chase. There is no information on which bank sends the most updates or alerts.
+
+Q: How many credit cards have I applied for in the last six months?
+A: The email does not provide information on how many credit cards you have applied for in the last six months.
+
+Q: Did I missed any credit card payments?
+A: Yes, according to an email from Discover Card, a payment that was due on October[AMOUNT], [AMOUNT] has not been received yet.
+
+Q: How much loans I have on me?
+A: The total approved loan amount is [AMOUNT] and you still have [AMOUNT] available from that loan. So, you have utilized [AMOUNT] of your loan.
+
+Q: Which investment platform sends me the most frequent updates?
+A: The investment platform that sends you frequent updates is Value Research Fundline.
+
+Q: Which job portals send me the most recommendations?
+A: The provided context does not contain information about which job portals send you the most recommendations.
+
+Q: Do I have any pending tasks or follow-ups mentioned in my emails?
+A: The provided email does not mention any pending tasks or follow-ups.
+
+Q: How many companies have I applied to in the last month?
+A: The email does not provide information on the number of companies you have applied to in the last month. You'll need to check your application status on LinkedIn for that information.
+
+Q: Are there any emails about discounts on flights or hotels?
+A: Yes, there is an email from Expedia.com discussing various discounts. Blue members can save[AMOUNT]% or more on over[AMOUNT] hotels. They also mention that customers can get a better deal when they bundle their flight and hotel together.
+
+Q: How much have I spent on travel bookings this year?
+A: The provided context does not contain information regarding how much you have spent on travel bookings this year.
+
+Q: Give me the best laptop deal that anyone has sent me.
+A: The email provided does not contain any information about a laptop deal. It only mentions a deal for a Galaxy 10S tablet at Best Buy.
+
+Q: What are the most common themes in my academic or research emails?What are some good productivity tips?
+A: The provided context does not provide any information on common themes in your academic or research emails or any productivity tips. It only involves two emails: one about things not to forget from PharmEasy, and another about career success from LinkedIn.
+
+Q: How can I save more money every month?
+A: One way IndusInd Bank suggests to save more money every month is by opening an INDIE Savings Account and making your bill payments through it. This could allow you to save up to[AMOUNT] on bill payments such as credit card, loan, FASTag, electricity, and postpaid bills.
+

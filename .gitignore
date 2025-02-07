@@ -1,0 +1,5 @@
+./Project/Submission/chroma_db/chroma.sqlite3
+*.sqlite3
+*.env
+*.mp4
+*.zip

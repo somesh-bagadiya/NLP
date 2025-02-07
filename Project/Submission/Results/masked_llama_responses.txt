@@ -1,0 +1,151 @@
+LLAMA Responses
+====================
+
+Q: Search for coupons or deals for Jockey for black friday.
+A: Based on the provided email context, it seems that Jockey is offering early access to their best Black Friday deals, which includes FREE shipping. However, to find more coupons or deals, I can suggest some options:
+
+[AMOUNT]. Check the email for a promo code: Although the email doesn't explicitly mention a promo code, it's possible that one might be included in the email or on the Jockey website.
+[AMOUNT]. Visit the Jockey website: You can visit the Jockey website (shopj
+
+Q: How many job applications I have applied to till now
+A: Unfortunately, the provided email does not mention the total number of job applications you have applied to. It only mentions that there are new application updates this week, but it does not provide a specific number or a list of all your job applications. To check the status of your applications, you would need to log in to your LinkedIn account and view your application history.
+
+Q: Are there any pending returns for any orders?
+A: No, there are no pending returns mentioned in the email. In fact, it mentions "Free returns" but that seems to be a general policy rather than a specific pending return for this order.
+
+Q: How much have I spend on electronics till now
+A: Based on the provided email context, it seems that you have accumulated[AMOUNT] points, which is equivalent to $[AMOUNT]. However, this information does not provide a comprehensive view of your total spending on electronics. The points mentioned appear to be part of a rewards program, and the value is relatively low.
+
+To determine your total spending on electronics, more information would be required, such as your purchase history or other relevant data. Unfortunately, the provided email context does not provide sufficient information to accurately answer
+
+Q: Which company sends me the most promotional emails
+A: Based on the provided context, it appears that ET Prime (Economic Times) sends you promotional emails. There are two emails from ET Prime in the given context, both with similar subjects and content, indicating that they are promotional emails.
+
+Q: How many credit cards do I own
+A: The provided email from Experian does not mention the number of credit cards you own. It appears to be a promotional email suggesting that your $[AMOUNT] credit limit could be even higher, but it does not provide any information about the number of credit cards you have.
+
+Q: What are the best restaurants in San Jose?
+A: Unfortunately, the provided email does not directly mention the best restaurants in San Jose. However, it appears to be an email from Eventbrite, promoting various events in San Jose. 
+
+If you're looking for recommendations on the best restaurants in San Jose, I can suggest some popular options:
+
+[AMOUNT]. La Victoria Taqueria - Known for their delicious Mexican food.
+[AMOUNT]. Good Karma Artisan Ales & Cafe - A popular spot for craft beer and tasty pub grub.
+[AMOUNT]. Minato S
+
+Q: Explain quantum computing in simple terms.
+A: Quantum computing is a complex topic, but I'll try to break it down in simple terms.
+
+Imagine you have a coin. Heads or tails, it can only be one of those two states at a time. Now, imagine a special coin that can be both heads AND tails at the same time. This is kind of like what happens in quantum computing.
+
+In classical computing, information is stored in "bits" that can only be[AMOUNT] or[AMOUNT]. But in quantum computing, information is
+
+Q: How does the stock market work?
+A: Although the provided context doesn't directly explain how the stock market works, I can provide a general explanation.
+
+The stock market is a platform where publicly traded companies' shares are bought and sold. Here's a simplified overview:
+
+[AMOUNT]. **Companies list their shares**: Publicly traded companies list their shares on stock exchanges, such as the New York Stock Exchange (NYSE) or the National Stock Exchange (NSE).
+[AMOUNT]. **Investors buy and sell shares**: Investors, like individuals or institutions, buy and
+
+Q: List all the subscriptions I am currently paying for.
+A: Based on the provided email, you are currently paying for a Google One subscription with the following details:
+
+[AMOUNT]. Storage: [AMOUNT] GB[AMOUNT]. Payment: [AMOUNT] per year[AMOUNT]. Renewal date: [AMOUNT] Nov[AMOUNT]
+
+However, the email does not provide information about other subscriptions you may be paying for. To view all your subscriptions, you can visit the link provided in the email: https://pay.google.com/gp/w/u/[AMOUNT]/home/sub
+
+Q: What is the total amount spent on food delivery this month?
+A: The provided email from DoorDash does not mention the total amount spent on food delivery this month. It appears to be a promotional email offering $[AMOUNT] delivery for[AMOUNT] orders using a specific code (2ZERODEL). To find the total amount spent on food delivery this month, you would need to check your order history or account statements on the DoorDash platform.
+
+Q: Which email contains the details of my last flight booking?
+A: This email does not contain the details of your last flight booking. It appears to be a promotional email from Expedia.com, offering features and rewards to help you save on your travels. If you're looking for the details of your last flight booking, you should check your email inbox for a confirmation email from Expedia.com that was sent to you after you made the booking.
+
+Q: Are there any overdue bills or payments in my emails?
+A: Yes, according to the email from Discover, you missed a payment that was due on October[AMOUNT], [AMOUNT].
+
+Q: How many emails contain attachments in the last month?
+A: Based on the provided context, there is no information about the number of emails containing attachments in the last month. The provided context appears to be two identical promotional emails from ET Prime, with no information about attachments or email history.
+
+Q: Search for bank statement of chase bank for the month of october
+A: Subject: Request for October Bank Statement
+
+Dear Chase Customer Service,
+
+I am writing to request a copy of my bank statement for the month of October. I would like to review my transactions for the month and ensure that everything is in order.
+
+Could you please provide me with a detailed statement that includes all my transactions, including the ATM withdrawal of $[AMOUNT] on October[AMOUNT], [AMOUNT], as per the receipt I received from my recent ATM visit?
+
+I would appreciate it if you could
+
+Q: How many emails have I received from Netflix?
+A: Based on the provided context, you have received at least one email from Netflix. However, the exact number of emails cannot be determined from the given information.
+
+Q: Do I have any emails with gift card codes or promo codes that I haven’t used yet?
+A: Yes, you have an email from "theCut" with a $[AMOUNT] gift card code that you haven't used yet. The gift code is GS4YE3 and it's valid nationwide at GoNift.com. You can redeem it by visiting the link provided in the email: https://www.gonift.com/nift_cards/GS4YE3/start
+
+Q: Are there any pending refunds for canceled orders?
+A: Based on the provided email context, there is no information about pending refunds for canceled orders. The email is specifically about an order ([AMOUNT]) that is awaiting payment, not about a canceled order or a refund.
+
+Q: How much have I spent on food delivery apps this year?
+A: Unfortunately, the provided email from Uber Eats does not contain information about your total spending on food delivery apps this year. The email appears to be a promotional message highlighting various deals and discounts available on the platform. To find out how much you've spent, you may need to check your order history or account statements on the Uber Eats app or website.
+
+Q: What is the most frequent discount percentage offered in my emails?
+A: Based on the provided context, the most frequent discount percentage offered in your emails is[AMOUNT]% OFF. This offer was mentioned in both emails from ET Prime.
+
+Q: How many credit card bills are due this month?
+A: Based on the provided email context, there is only one credit card bill mentioned that is due this month. The payment due date is[AMOUNT]-[AMOUNT]-[AMOUNT], and the total due amount is[AMOUNT] for the SBI credit card ending in xxxx[AMOUNT].
+
+Q: Which bank sends me the most updates or alerts?
+A: Based on the provided context, it appears that HDFC Bank sends you more updates or alerts. There are two emails from HDFC Bank ([EMAIL]) with detailed information about your account update and a notification to review secure usage tips for their MobileBanking App.
+
+On the other hand, there is only one email from Chase ([EMAIL]) with a simple notification stating that your latest statement is now available.
+
+Q: How many credit cards have I applied for in the last six months?
+A: Unfortunately, the provided email does not contain information about the number of credit cards you have applied for in the last six months. The email appears to be an invitation from Experian to apply for an American Express credit card with no impact on your credit scores. If you want to know the number of credit card applications you've made, I suggest checking your credit report or contacting Experian directly for more information.
+
+Q: Did I missed any credit card payments?
+A: Yes, according to the email from Discover, you missed a payment that was due on October[AMOUNT], [AMOUNT].
+
+Q: How much loans I have on me?
+A: According to the email, your approved education loan amount is [AMOUNT]. However, you have already utilized some of it and still have [AMOUNT] available for disbursement.
+
+Q: Which investment platform sends me the most frequent updates?
+A: Based on the provided context, it appears that Value Research Fundline sends you frequent updates, as evidenced by the email dated November[AMOUNT], [AMOUNT].
+
+Q: Which job portals send me the most recommendations?
+A: Based on the provided email context, it appears that "Find Your Job" and "High Speed Job" (https://highspeedjob.com/) are the job portals that have mentioned you in a comment or are sending you job updates.
+
+Q: Do I have any pending tasks or follow-ups mentioned in my emails?
+A: Based on the provided email context, there are no pending tasks or follow-ups mentioned. The email appears to be a notification from LinkedIn, informing you that you have[AMOUNT] new messages. It also mentions that Sumeet Agrawal shared a post, but there is no mention of any tasks or follow-ups that require your attention.
+
+Q: How many companies have I applied to in the last month?
+A: Unfortunately, the provided email does not contain information about the number of companies you have applied to in the last month. It only mentions that there are new application updates from the past week, but it does not provide specific details about the number of applications or companies. To get that information, you would need to log in to your LinkedIn account and check the status of your applications.
+
+Q: Are there any emails about discounts on flights or hotels?
+A: Yes, there is an email about discounts on flights and hotels. According to the email from Expedia.com, Blue members can save[AMOUNT]% or more on over[AMOUNT] hotels. Additionally, it's mentioned that bundling flights and hotels together can result in an even better deal.
+
+Q: How much have I spent on travel bookings this year?
+A: Unfortunately, the provided email from Expedia does not contain information about your past travel bookings or expenses. It appears to be a promotional email encouraging you to book a flight and hotel together to save money. If you're looking for information about your past bookings or expenses, I recommend checking your account on Expedia or contacting their customer support directly.
+
+Q: Give me the best laptop deal that anyone has sent me.
+A: Based on the provided context, I couldn't find any information about laptop deals. The email is actually about a deal on a Galaxy 10S tablet at Best Buy, where you can save up to $[AMOUNT].
+
+Q: What are the most common themes in my academic or research emails?What are some good productivity tips?
+A: Based on the provided context, it appears that the emails are not directly related to academic or research topics. However, I can infer some general themes and provide productivity tips.
+
+The emails seem to be promotional or informational in nature, with one from PharmEasy (a healthcare or pharmacy-related service) and the other from LinkedIn (a professional networking platform).
+
+If I had to identify common themes in academic or research emails, they might include:
+
+[AMOUNT]. Research updates or publications[AMOUNT]. Conference or seminar invitations
+
+
+Q: How can I save more money every month?
+A: According to the email from IndusInd Bank, you can save up to ₹[AMOUNT] on your bill payments by following these steps:
+
+[AMOUNT]. Open an INDIE Savings Account.
+[AMOUNT]. Pay your Credit Card, Loan, FASTag, Electricity, Postpaid, and other bills through the account.
+
+By doing so, you can earn rewards on your bill payments and save up to ₹[AMOUNT] every month.
+

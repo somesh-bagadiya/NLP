@@ -1,0 +1,141 @@
+GEMINI Responses
+====================
+
+Q: Search for coupons or deals for Jockey for black friday.
+A: The email indicates that Jockey is offering deals and free shipping as part of their Black Friday/Cyber Monday sale.  However, specific coupon codes are not provided in this email.  The email emphasizes that this early access ends tonight (November 27th), suggesting that deals may change or end soon.  To find specific coupons or deals, you should check the Jockey website directly.
+
+
+Q: How many job applications I have applied to till now
+A: The email doesn't specify the number of job applications you've submitted.  It only states that there are updates to your applications this week.  To see the number of applications, you need to check your LinkedIn account.
+
+
+Q: Are there any pending returns for any orders?
+A: The email mentions "Free returns", but doesn't indicate any pending returns for order[AMOUNT].  The email focuses on the pending payment for that order.
+
+
+Q: How much have I spend on electronics till now
+A: This email doesn't provide information on how much you've spent on electronics in the past.  It only advertises a deal on a Samsung Galaxy phone and mentions a potential trade-in credit.
+
+
+Q: Which company sends me the most promotional emails
+A: Based on the provided email headers, ET Prime, from  [EMAIL], is the company sending you promotional emails.
+
+
+Q: How many credit cards do I own
+A: This email doesn't state how many credit cards you own.  It only mentions a potential increase to your existing credit limit.
+
+
+Q: What are the best restaurants in San Jose?
+A: This email from Eventbrite advertises events in San Jose, not restaurants.  Therefore, I cannot answer your question about the best restaurants in San Jose using the provided context.
+
+
+Q: Explain quantum computing in simple terms.
+A: The provided email text focuses on a news story about a quantum physics experiment, not on quantum computing itself.  Therefore, I cannot explain quantum computing based on this email.  The email only mentions a quantum state lasting a long time, which is a concept related to, but not a definition of, quantum computing.  To understand quantum computing, you would need to consult other sources.
+
+
+Q: How does the stock market work?
+A: This email does not explain how the stock market works.  It only addresses investor behavior during a falling market, advising investors to remain invested and potentially increase their contributions.  To understand how the stock market works, you would need to consult a different resource.
+
+
+Q: List all the subscriptions I am currently paying for.
+A: Based on the provided email, you are currently paying for a Google One 100GB subscription.  The email does not provide information about other subscriptions you may have.
+
+
+Q: What is the total amount spent on food delivery this month?
+A: The provided email does not contain information about the total amount spent on food delivery this month.  It only advertises a promotion offering free delivery for up to two orders using specific codes.
+
+
+Q: Which email contains the details of my last flight booking?
+A: This email doesn't contain details of your last flight booking.  It's an Expedia advertisement promoting their services and features.  To find details of your last booking, you'll need to check your Expedia account directly.
+
+
+Q: Are there any overdue bills or payments in my emails?
+A: Yes, the email from Discover indicates a payment was due on October[AMOUNT], [AMOUNT], and has not yet been received.  Therefore, you have at least one overdue payment.
+
+
+Q: How many emails contain attachments in the last month?
+A: The provided text doesn't contain information about email attachments.  Therefore, I cannot answer your question about the number of emails with attachments received in the last month.
+
+
+Q: Search for bank statement of chase bank for the month of october
+A: The provided email only contains an ATM receipt for a transaction on October 25th, [AMOUNT].  It does not include a full bank statement for the month of October.  The email does mention that you can access your ATM receipts (including check images) for the past[AMOUNT] days via chase.com or the Chase Mobile app.  To obtain your full October bank statement, you will need to log in to your Chase account online or through the mobile app.
+
+
+Q: How many emails have I received from Netflix?
+A: Based on the provided context, you have received one email from Netflix.
+
+
+Q: Do I have any emails with gift card codes or promo codes that I haven’t used yet?
+A: Yes, you have an unused $[AMOUNT] gift card from theCut.  The gift code is GS4YE3 and can be redeemed at GoNift.com.
+
+
+Q: Are there any pending refunds for canceled orders?
+A: The provided email only mentions an order awaiting payment, order number[AMOUNT].  There is no information about any canceled orders or pending refunds.
+
+
+Q: How much have I spent on food delivery apps this year?
+A: This email provides information about current deals on various restaurants through Uber Eats, but it contains no information about your past spending on food delivery apps this year.  Therefore, I cannot answer your question using the provided context.
+
+
+Q: What is the most frequent discount percentage offered in my emails?
+A: Based on the provided email context, the most frequent discount percentage offered is[AMOUNT]%.
+
+
+Q: How many credit card bills are due this month?
+A: Based on the provided email, there is one credit card bill due this month, specifically on November 28th, [AMOUNT].  The email mentions the SBI credit card ending in[AMOUNT] with a total due amount of[AMOUNT].
+
+
+Q: Which bank sends me the most updates or alerts?
+A: Based on the provided email excerpts, HDFC Bank sent at least one alert regarding a successful login to online banking.  Chase also sent an email, but the content of that email only states that a statement is available,  not necessarily an alert. Therefore, we only have evidence of one alert from HDFC Bank.  More information is needed to definitively say which bank sends the most updates or alerts.
+
+
+Q: How many credit cards have I applied for in the last six months?
+A: This email from Experian provides information about applying for an American Express credit card, but it doesn't contain any data about how many credit card applications you've submitted in the last six months.  The email only relates to a potential future application.
+
+
+Q: Did I missed any credit card payments?
+A: Yes, the email from Discover indicates that a payment was due on October 4th, [AMOUNT], and has not yet been received.
+
+
+Q: How much loans I have on me?
+A: Based on the email, your approved education loan was worth [AMOUNT].  You currently have [AMOUNT] remaining as an available balance.  Therefore, you have [AMOUNT] ([AMOUNT] - [AMOUNT]) outstanding on your loan.
+
+
+Q: Which investment platform sends me the most frequent updates?
+A: Based solely on the provided email, Value Research Fundline is the platform sending you updates, at least as frequently as evidenced by this single email.  We cannot determine if other platforms send you more frequent updates without additional information.
+
+
+Q: Which job portals send me the most recommendations?
+A: Based solely on the provided email, only one job portal is mentioned:  Find Your Job.  The email doesn't offer information about recommendations from other job portals.
+
+
+Q: Do I have any pending tasks or follow-ups mentioned in my emails?
+A: Based on the provided email, there are no pending tasks or follow-ups explicitly mentioned.  The email only notifies you of three new LinkedIn messages.  The content of those messages is not included, so we cannot determine if they imply any actions on your part.
+
+
+Q: How many companies have I applied to in the last month?
+A: This email doesn't specify the number of companies you (Somesh Bagadiya) have applied to in the last month.  It only indicates that there are application updates to check on LinkedIn.  To find the number of applications, you need to log in to your LinkedIn account and review your application status.
+
+
+Q: Are there any emails about discounts on flights or hotels?
+A: Yes, there is an email from Expedia advertising discounts on hotels.  Blue members can save[AMOUNT]% or more on over[AMOUNT] hotels.  The email also mentions that bundling flights and hotels together provides an even better deal, although specific flight discounts aren't detailed.
+
+
+Q: How much have I spent on travel bookings this year?
+A: The provided email doesn't contain information about how much you've spent on travel bookings this year.  It only shows that you could save up to $[AMOUNT] by booking a flight and hotel package through Expedia.
+
+
+Q: Give me the best laptop deal that anyone has sent me.
+A: The provided email is an advertisement for a deal on a Samsung Galaxy 10S tablet, not a laptop.  Therefore, I cannot answer your question about the best laptop deal from your emails based on the provided context.
+
+
+Q: What are the most common themes in my academic or research emails?What are some good productivity tips?
+A: Based on the provided email snippets, there is no information about academic or research emails.  The emails are from PharmEasy (likely a pharmacy or health-related company) and LinkedIn.  Therefore, I cannot identify common themes in your academic or research emails.
+
+The emails themselves don't offer productivity tips,  only a link to a list from PharmEasy ("Tap to check out the complete list") and a LinkedIn email promoting career success.  To provide good productivity tips, I would need additional information about your work habits and challenges.
+
+
+Q: How can I save more money every month?
+A: Based on the email, opening an INDIE Savings account with IndusInd Bank allows you to save up to ₹[AMOUNT] on your bill payments (credit card, loan, FASTag, electricity, postpaid, etc.).  The email doesn't provide information on other ways to save money.
+
+
